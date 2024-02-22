@@ -9,7 +9,7 @@
 
 ### Courses/Certifications
 - The Business intelligence Analyst Course / UDemy
-- The Data Analyst Course BootCamp / UDemy
+- The Data Analyst Course BootCamp / UDemy [The Data Analyst Course BootCamp](https://github.com/vukwat/Data-Analyst-Portfolio-/blob/main/The%20Data%20Analyst%20Course%20.pdf)
 - Mutual Fund License / Canadian Investment Funds in Canada
 
 ### Work Experience
