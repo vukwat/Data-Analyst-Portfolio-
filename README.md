@@ -1,9 +1,10 @@
-# Data Analyst
+# Data Analyst / Buiness Analyst / Credit Analyst
 
 ### Education
  - Carleton University / Bachelor of Science, Mathematics
 
 ### Courses/Certifications
+- The Buisness intelligence Analyst Course / UDemy
 - The Data Analyst Course BootCamp / UDemy
 - Mutual Fund License / Canadian Investment Funds in Canada
 
