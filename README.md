@@ -1,8 +1,12 @@
 # Data Analyst / Business Analyst / Credit Analyst
 
 ### Technical Skills
-- C++/C--, Matlab, Minitab, SAS, R Programming, SQL, Python, Tableau
+- C++/C--, Matlab, Minitab, SAS, R Programming, SQL, Python, Tableau.
 - Microsoft Office (Word, Excel, Outlook, Powerpoint. etc )
+- Data Collection, Data Cleansing, Data Visualization to derive actionable insights.
+- Financial modeling, risk assessment, investment analysis, and knowledge of financial software.
+- Credit/Loan Structuring, Investment Advice, Risk Analysis, Risk Management.
+
 
 ### Education
  - Carleton University / Bachelor of Science, Mathematics
